@@ -59,4 +59,5 @@ def print(node, path)
     p i
   end
 end
+
 knight_moves([0, 0], [8, 7])
